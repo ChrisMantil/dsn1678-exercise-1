@@ -34,5 +34,6 @@ img {
 }
 
 .stegofigcap {
-	background-color: #000, .8;
+	background-color: #000;
+	opacity: .5;
 }
