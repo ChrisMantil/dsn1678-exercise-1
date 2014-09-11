@@ -33,12 +33,47 @@ img {
   width: 100%;
 }
 
+.banner {
+	position: relative;
+	margin: 0;
+}
+
+.stegosaurus {
+	font-size: 1.6em;
+	margin-top: 1.2em;
+	margin-bottom: 1.2em;
+	padding-left: .6em;
+}
+
 .stegofigcap {
 	background-color: red;
-	padding: 0;
+	padding: none;
+	font-family: serif;
+	color: #fff;
+	position: absolute;
+	bottom: 0;
+	width: 100%;
 }
 
 .info {
 	float: left;
 	display: inline;
+	width: 15%;
+	border-left: solid 1px #B8BABA;
+	margin-bottom: 2em;
+}
+
+.stats {
+	width: 10%;
+	padding-left: 9%;
+	margin: 0;
+	text-transform: uppercase;
+	font-size: 1.1em;
+	color: #B8BABA;
+}
+
+.details {
+	padding-left: 9%;
+	margin: 0;
+	font-size: 1.2em;
 }
