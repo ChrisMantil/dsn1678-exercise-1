@@ -53,6 +53,8 @@ img {
 	position: absolute;
 	bottom: 0;
 	width: 100%;
+	font-size: 1.3em;
+	padding: 1em;
 }
 
 .info {
@@ -64,7 +66,7 @@ img {
 }
 
 .stats {
-	width: 10%;
+	width: 33%;
 	padding-left: 9%;
 	margin: 0;
 	text-transform: uppercase;
