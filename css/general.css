@@ -36,3 +36,8 @@ img {
 .stegofigcap {
 	background-color: red;
 }
+
+.info {
+	float: left;
+	display: inline-block;
+}
